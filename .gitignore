@@ -1,0 +1,22 @@
+# Credentials and private coursework
+work/
+*.xml
+*coursework-inventory*
+*canvas-current*
+
+# User-specific runtime artifacts
+*.lnk
+*.request.json
+*.response.json
+status.json
+helper.lock
+
+# Workspace-only instructions
+AGENTS.md
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
